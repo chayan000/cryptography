@@ -1,4 +1,4 @@
-Name: Chayan Pathak    Roll: 12310630
+
 
 There are two folders 1.Alice 2.Bob all the codes related to Alice is inside Alice folder and
 all the codes related to Bob is inside Bob folder.
